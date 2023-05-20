@@ -1,6 +1,5 @@
 # Vercel Express Server
-
-Reach the API on
+The server is hosted on 
 https://wtfpm.vercel.app/
 
 ## API Endpoints
